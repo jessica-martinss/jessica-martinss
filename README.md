@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá! Eu sou a Jéssica 👋
 
-<!--
-**jessica-martinss/jessica-martinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em Desenvolvimento de Software e estou sempre buscando aprender e colocar meus conhecimentos em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e ferramentas
+
+Python
+
+C
+
+SQL
+
+Git e GitHub
+
+📚 Atualmente estudando
+
+Lógica de programação
+
+Programação em Python e C
+
+Desenvolvimento de Software
+
+🎯 Objetivo
+
+Busco uma oportunidade de estágio em Desenvolvimento de Software para desenvolver minhas habilidades, aprender novas tecnologias e contribuir com projetos reais.
+
+📂 Projetos
+
+Em construção! Compartilharei aqui meus projetos acadêmicos e pessoais.
