@@ -1,31 +1,47 @@
-Olá! Eu sou a Jéssica 👋
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+# Olá! Eu sou a Jéssica 👋
 
-💻 Tenho interesse em Desenvolvimento de Software e estou sempre buscando aprender e colocar meus conhecimentos em prática.
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-🚀 Tecnologias e ferramentas
+💗 Futura Desenvolvedora de Software
 
-Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header" width="100%"/>
 
-C
+</div>
 
-SQL
+---
 
-Git e GitHub
+## 🌷 Sobre mim
 
-📚 Atualmente estudando
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Interessada em Desenvolvimento de Software.
+- 📚 Sempre buscando aprender e desenvolver novos projetos.
+- 🎯 Em busca de uma oportunidade de estágio em Desenvolvimento de Software.
 
-Lógica de programação
+## 🛠️ Tecnologias e ferramentas
 
-Programação em Python e C
+<div align="center">
 
-Desenvolvimento de Software
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode" />
 
-🎯 Objetivo
+</div>
 
-Busco uma oportunidade de estágio em Desenvolvimento de Software para desenvolver minhas habilidades, aprender novas tecnologias e contribuir com projetos reais.
+## 📖 Atualmente estudando
 
-📂 Projetos
+- Lógica de programação
+- Python e C
+- Banco de dados SQL
+- Desenvolvimento de Software
 
-Em construção! Compartilharei aqui meus projetos acadêmicos e pessoais.
+## 🚀 Projetos
+
+Em construção! Em breve, novos projetos acadêmicos e pessoais.
+
+---
+
+<div align="center">
+
+💗 Obrigada pela visita!
+
+</div>
